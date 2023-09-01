@@ -109,9 +109,9 @@ box-shadow:  19px 19px 37px #b8b8b8,
 }
 .food{
     display: flex;
-   margin-right:70x;
+   margin-left:-170x;
    align-items: start;
-    justify-content:space-between;
+    
 }
 .title{
     
