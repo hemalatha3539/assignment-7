@@ -179,6 +179,7 @@ box-shadow:  19px 19px 37px #b8b8b8,
     border-radius:9px;
     background-color:coral;
     color: aliceblue;
+    font-weight: bolder;
     
 }
 .btn2{
@@ -189,5 +190,6 @@ box-shadow:  19px 19px 37px #b8b8b8,
     border-radius:9px;
     background-color:deeppink;
     color: aliceblue;
+    font-weight: bolder;
     
 }
